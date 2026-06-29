@@ -54,11 +54,13 @@ export default function Issuance() {
           </span>
         </div>
         <h1 className="font-display font-bold text-4xl sm:text-5xl leading-tight mb-4">
-          Formed, not deployed.
+          Real PoW formation cost.<br />
+          <span className="text-accent">Permanent on-chain identity.</span>
         </h1>
         <p className="font-mono text-textmuted text-sm max-w-lg leading-relaxed">
-          Every NEXUS MIND identity is produced through HACD Stack — a
-          PoW-native formation process. Here is exactly how it works.
+          NEXUS MIND is a PoW-anchored AI trading agent identity NFT collection
+          formed through HACD Stack. Each identity is backed by one HACD with
+          real PoW formation cost. Here is exactly how it works.
         </p>
       </section>
 

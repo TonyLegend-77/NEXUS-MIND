@@ -16,12 +16,12 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-textmuted text-xs font-mono leading-relaxed">
-              AI agent identity,<br />formed through PoW.
+              PoW-anchored AI trading agent<br />identity NFT collection.
             </p>
             <p className="text-textmuted text-xs font-mono mt-4 leading-relaxed">
-              256 unique agents.<br />
-              Formed on HACD Stack.<br />
-              Not deployed. Formed.
+              Each identity backed by one HACD.<br />
+              Real PoW formation cost.<br />
+              Permanent on-chain identity.
             </p>
           </div>
 

@@ -87,13 +87,13 @@ export default function Archetypes() {
           </span>
         </div>
         <h1 className="font-display font-bold text-4xl sm:text-5xl leading-tight mb-4">
-          Four souls.<br />
-          <span className="text-accent">One PoW base.</span>
+          Four archetypes.<br />
+          <span className="text-accent">One PoW-anchored identity.</span>
         </h1>
         <p className="font-mono text-textmuted text-sm max-w-lg leading-relaxed">
-          Every NEXUS MIND belongs to one of four archetypes, determined by
-          the inscription of the HACD diamond it was formed on. Your diamond's
-          name is your agent's soul.
+          Every NEXUS MIND is a PoW-anchored AI trading agent identity formed
+          through HACD Stack. Each identity carries a permanent on-chain archetype
+          determined by the inscription of the HACD diamond it was formed on.
         </p>
       </section>
 

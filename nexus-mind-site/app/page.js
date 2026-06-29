@@ -12,19 +12,19 @@ export default function Home() {
       <section className="pt-32 pb-20 px-4 sm:px-6 max-w-6xl mx-auto">
         <div className="border-l-2 border-accent pl-6 mb-8">
           <span className="font-mono text-xs text-accent tracking-widest">
-            HACD STACK — AI AGENT IDENTITY NFT — 256 UNITS
+            PoW-ANCHORED AI TRADING AGENT IDENTITY NFT — HACD STACK — 256 UNITS
           </span>
         </div>
 
         <h1 className="font-display font-bold text-4xl sm:text-6xl lg:text-7xl leading-none tracking-tight mb-6 animate-flicker">
-          AI agent identity,<br />
-          <span className="text-accent">formed through PoW.</span>
+          PoW-anchored AI agent<br />
+          <span className="text-accent">identity. Formed on HACD.</span>
         </h1>
 
         <p className="font-mono text-textmuted text-sm sm:text-base max-w-xl leading-relaxed mb-10">
-          256 unique AI trading agent identities. Each one anchored to a real
-          PoW-mined HACD diamond. Named by its inscription. Formed permanently
-          on-chain. Not deployed. <span className="text-textprimary">Formed.</span>
+          NEXUS MIND is a PoW-anchored AI trading agent identity NFT collection,
+          formed through HACD Stack. Each identity is backed by one HACD, with
+          real PoW formation cost and a permanent on-chain identity and archetype.
         </p>
 
         <div className="flex flex-wrap gap-4">
@@ -70,19 +70,19 @@ export default function Home() {
           <div>
             <p className="font-mono text-xs text-accent tracking-widest mb-4">// WHAT IS NEXUS MIND</p>
             <h2 className="font-display font-semibold text-2xl sm:text-3xl leading-tight mb-6">
-              The agent IS the diamond.
+              PoW formation cost.<br />Permanent on-chain identity.
             </h2>
             <p className="text-textmuted font-mono text-sm leading-relaxed mb-4">
-              Most AI agent tokens have no backing. Zero formation cost. Anyone
-              can print 10,000 identities in minutes and call them scarce.
+              NEXUS MIND is a PoW-anchored AI trading agent identity NFT collection,
+              formed through HACD Stack. Each identity is backed by one HACD, with
+              real PoW formation cost and a permanent on-chain identity and archetype.
             </p>
             <p className="text-textmuted font-mono text-sm leading-relaxed mb-4">
-              NEXUS MIND is different. Every agent identity requires one real
-              PoW-mined HACD diamond, HAC stack cost paid at formation, and an
-              on-chain inscription that cannot be faked or duplicated.
+              After launch, these identities will be gradually connected to CycleMind,
+              BitEdge, and future HACD/HVM agent functionality.
             </p>
             <p className="text-textprimary font-mono text-sm leading-relaxed">
-              The formation cost IS the identity credibility.
+              The identity layer comes first. That is the right order.
             </p>
           </div>
 

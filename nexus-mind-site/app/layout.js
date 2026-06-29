@@ -1,11 +1,11 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'NEXUS MIND — AI Agent Identity on HACD',
-  description: 'The first AI agent identity NFT collection formed through HACD Stack. 256 unique trading agent souls anchored to PoW-mined diamonds.',
+  title: 'NEXUS MIND — PoW-Anchored AI Agent Identity on HACD Stack',
+  description: 'NEXUS MIND is a PoW-anchored AI trading agent identity NFT collection, formed through HACD Stack. Each identity is backed by one HACD, with real PoW formation cost and a permanent on-chain identity/archetype.',
   openGraph: {
     title: 'NEXUS MIND',
-    description: 'AI agent identity, formed through PoW.',
+    description: 'PoW-anchored AI trading agent identity NFT collection, formed through HACD Stack.',
     type: 'website',
   },
 }

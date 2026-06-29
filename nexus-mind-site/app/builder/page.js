@@ -23,8 +23,9 @@ export default function Builder() {
           <span className="text-accent">already ships AI.</span>
         </h1>
         <p className="font-mono text-textmuted text-sm max-w-lg leading-relaxed">
-          NEXUS MIND is not a whitepaper project. It comes from a builder
-          with two live AI trading platforms, built solo on a tablet.
+          NEXUS MIND is a PoW-anchored AI trading agent identity NFT collection
+          formed through HACD Stack. It comes from a builder with two live AI
+          trading platforms — built solo, shipped and running.
         </p>
       </section>
 
